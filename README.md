@@ -2,7 +2,7 @@
 
 The python files contain the code to set up the DDPG agent as well as the game environment.In the file called tools, we define the preprocessing approach. In jump_env, we set up the game environment of the jump game. In memory, the memory of the agent is defined. In models, the actor and critic is defined. In ddpg, we define the DDPG agent.
 
-
+The notebooks excute the experiments. In the notebook called train-ddpg-model, we present the process to train the DDPG agent. In cnn-deconv, the deconvolution process is programmed. In t-SNE-visualization, we apply the t-SNE algorithm. In perturbation-based-saliency, how the generate the perturbation-based saliency maps is defined.
 
 
 
